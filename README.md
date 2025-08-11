@@ -124,6 +124,3 @@ print('Predicted class:', pred)
 - **`cuda: False`** → install the CUDA wheel (`+cu129` etc.), update NVIDIA driver, restart kernel.
 - **DataLoader hang on Windows** → set `num_workers=0` in notebooks.
 - **CUDA OOM** → lower `batch_size`, use smaller `img_size`, or try gradient accumulation.
-
-## License
-MIT — add a `LICENSE` file if you want to use MIT.

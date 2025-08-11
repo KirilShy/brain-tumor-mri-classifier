@@ -31,7 +31,7 @@ data/
     class_1/ *.jpg|*.png
     ...
 ```
-**Dataset source:** _<add your link/name here (e.g., Kaggle Brain Tumor MRI dataset)>_  
+**Dataset source:** https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  
 **Num classes:** default is **4** (change in code if different).
 
 ## Setup
